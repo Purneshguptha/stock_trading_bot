@@ -66,7 +66,7 @@ This bot is for educational and demonstration purposes only. Real trading involv
 MIT License
 
 ## Author
-[Your Name]
+Bandaru Purnesh Guptha
 
 ## Version
 1.0.0 
